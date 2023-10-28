@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>images for notepad/copy-two-paper-sheets-interface-symbol.png</file>
+        <file>images for notepad/cut.png</file>
+        <file>images for notepad/diskette (1).png</file>
+        <file>images for notepad/diskette.png</file>
+        <file>images for notepad/folder.png</file>
+        <file>images for notepad/information-button.png</file>
+        <file>images for notepad/new-document.png</file>
+        <file>images for notepad/paste.png</file>
+        <file>images for notepad/redo-arrow-symbol.png</file>
+        <file>images for notepad/undo.png</file>
+    </qresource>
+</RCC>
